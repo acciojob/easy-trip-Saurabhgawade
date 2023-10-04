@@ -29,6 +29,7 @@ public class Flight {
         this.duration = duration;
     }
 
+
     public int getFlightId() {
         return flightId;
     }
